@@ -1,0 +1,67 @@
+#btn8a, #btn8 {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: green;
+  color: white;
+  border: solid 1px #666;
+  border-radius: 3px;
+}
+#btn8a {
+  padding: 50px;
+  display: none;
+}
+.ani{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position:absolute;
+}
+.ani1{
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  position:absolute;
+}
+.ani2{
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  position:absolute;
+}
+.ani3{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  position:absolute;
+}
+#div21{
+  height: 100px;
+  width: 300px;
+  border: 2px solid;
+  background-color: green;
+}
+
+#div22{
+  height: 100px;
+  width: 300px;
+  border: 2px solid;
+  background-color: blue;
+}
+
+.important {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.blue {
+  color: blue;
+}
+
+.ani27{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position:absolute;
+}
+
